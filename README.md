@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justingrisanti
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning JSON
+- 🌱 I’m currently learning Pipelines
 - 💞️ I’m looking to collaborate on Kaggle projects.
 - 📫 How to reach me jgrisanti97@gmail.com
 
