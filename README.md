@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justingrisanti
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Pipelines
+- 🌱 I’m currently working on my Capstone Project
 - 💞️ I’m looking to collaborate on Kaggle projects.
-- 📫 How to reach me jgrisanti97@gmail.com
+- 📫 How to reach me justin.grisanti@gmail.com
 
 <!---
 justingrisanti/justingrisanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
